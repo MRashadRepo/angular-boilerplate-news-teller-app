@@ -4,6 +4,7 @@
 - [ ] Dashboard Component.
 - [ ] User Managment Component.
 - [ ] ACL Management Component.
+- [ ] File Upload Component.
 
 ## Portal Checklist
 - [ ] Sign-in and Sign-up Component.
@@ -12,6 +13,7 @@
 ## Remarks
 - [x] Input Service. ==>Angular Docs link MISSING<==
 - [x] Lazy Loading. ==>Angular Docs link MISSING<==
+- [ ] Route Guards. ==>Angular Docs link MISSING<==
 - [ ] RxJs.
 - [ ] NGRX. . ==>Angular Docs link MISSING<==
 - [ ] Animation. . ==>Angular Docs link MISSING<==
