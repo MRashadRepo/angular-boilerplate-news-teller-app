@@ -8,7 +8,7 @@
 
 ## Portal Checklist
 - [ ] Sign-in and Sign-up Component.
-- [ ] Forget and Reset Password.
+- [ ] Forget and Reset Password Component.
 - [ ] Home Component.
 
 ## Remarks
